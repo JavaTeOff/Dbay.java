@@ -1,0 +1,1 @@
+<Label Style={FontSize(100); Color(Magenta);}>Test</Label>
